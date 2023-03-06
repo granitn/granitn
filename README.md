@@ -11,4 +11,4 @@
 - 🏋️ Sports but lately reduced to mostly just going to the gym
 <br>
 
-<img src="https://user-images.githubusercontent.com/94522570/223156458-428b2153-cbfa-4447-86db-c2d89de51679.png" width "500" />
+<img src="https://user-images.githubusercontent.com/94522570/223156458-428b2153-cbfa-4447-86db-c2d89de51679.png" width="500" />
